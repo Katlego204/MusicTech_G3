@@ -1,6 +1,6 @@
 # Project 7: PDI-12 Passive DI Box Manufacturing Proposal
 
-**[View the Interactive Engineering Report & Manufacturing Pitch](INSERT_YOUR_GITHUB_PAGES_LINK_HERE)**
+**[View the Interactive Engineering Report & Manufacturing Pitch](https://katlego204.github.io/MusicTech_G3/)**
 
 ## Overview
 This repository contains the complete engineering report and manufacturing proposal for the PDI-12, a premium transformer-isolated passive Direct Injection (DI) box. The project includes electrical schematics, PCB layout verification, mechanical enclosure design, a full Bill of Materials (BOM) priced in ZAR, and strict First-Article Quality Assurance protocols. 
